@@ -1,3 +1,3 @@
-# FATEsys2022
+# BenchSys2022
 
-### Website for the Second ACM SIGEnergy Workshop on Fair, Accountable, Transparent, and Ethical (FATE) AI for Smart Energy Systems and Environments (FATEsys)
+### Website for the First ACM SIGEnergy International Workshop on Advancements in Building Energy Benchmarking Systems (BenchSys)
